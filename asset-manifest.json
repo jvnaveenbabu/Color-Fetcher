@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Color-Fetcher/static/css/main.38332eff.chunk.css",
+    "main.js": "/Color-Fetcher/static/js/main.dadcf328.chunk.js",
+    "main.js.map": "/Color-Fetcher/static/js/main.dadcf328.chunk.js.map",
+    "runtime-main.js": "/Color-Fetcher/static/js/runtime-main.a129cb5c.js",
+    "runtime-main.js.map": "/Color-Fetcher/static/js/runtime-main.a129cb5c.js.map",
+    "static/js/2.1bc976a1.chunk.js": "/Color-Fetcher/static/js/2.1bc976a1.chunk.js",
+    "static/js/2.1bc976a1.chunk.js.map": "/Color-Fetcher/static/js/2.1bc976a1.chunk.js.map",
+    "index.html": "/Color-Fetcher/index.html",
+    "precache-manifest.25ff1e50562be29d36911f1470cab1ed.js": "/Color-Fetcher/precache-manifest.25ff1e50562be29d36911f1470cab1ed.js",
+    "service-worker.js": "/Color-Fetcher/service-worker.js",
+    "static/css/main.38332eff.chunk.css.map": "/Color-Fetcher/static/css/main.38332eff.chunk.css.map",
+    "static/js/2.1bc976a1.chunk.js.LICENSE.txt": "/Color-Fetcher/static/js/2.1bc976a1.chunk.js.LICENSE.txt",
+    "static/media/click.mp3": "/Color-Fetcher/static/media/click.d392c03a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a129cb5c.js",
+    "static/js/2.1bc976a1.chunk.js",
+    "static/css/main.38332eff.chunk.css",
+    "static/js/main.dadcf328.chunk.js"
+  ]
+}
