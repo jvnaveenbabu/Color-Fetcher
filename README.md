@@ -1,5 +1,5 @@
 # Color-Fetcher
-Here you can fetch the color and you can use these colors for your website or wherever you want.
+Here you can fetch the color and you can use these colors for your website or wherever you want. It consist of collection of colors and tools for use in paints and illustration programs.
 
 ## Preview 🕵️‍♀️
 ![Color-Fetcher](https://user-images.githubusercontent.com/48272770/91347639-4b592980-e800-11ea-8a15-979d7f7dbb84.gif)
